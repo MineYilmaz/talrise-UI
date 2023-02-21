@@ -25,7 +25,7 @@ public class PageInitializer extends Driver {
 
         //nur ekleme yapti
         // dilek ekleme yapti
-
+        //sati ekleme yapti.
 
 
 
