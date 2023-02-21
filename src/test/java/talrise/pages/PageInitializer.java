@@ -24,6 +24,7 @@ public class PageInitializer extends Driver {
       // educationPage = new EducationPage();
 
         //nur ekleme yapti
+        // dilek ekleme yapti
 
 
 
