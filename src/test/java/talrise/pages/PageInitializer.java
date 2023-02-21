@@ -23,6 +23,8 @@ public class PageInitializer extends Driver {
        // activityPage=new ActivityPage();
       // educationPage = new EducationPage();
 
+        //nur ekleme yapti
+
 
 
 
